@@ -1,0 +1,20 @@
+17-7
+FUEL 6.500  6.49791578  6.49762376  6.45
+ETHI 7.790  7.78584405  7.72
+ISO  5.160  5.15602914  5.11
+QRE  6.050  6.04933231  5.96
+MVS  20.360 20.35921901 20.19
+
+
+Coefficients: 
+ [0.99961697]
+Mean squared error: 0.01
+Variance score: 0.96
+[20.35452803]
+
+[5 rows x 7 columns]
+Coefficients: 
+ [1.00141865]
+Mean squared error: 0.01
+Variance score: 0.95
+[20.35921901]

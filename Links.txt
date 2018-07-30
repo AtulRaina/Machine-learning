@@ -1,0 +1,5 @@
+https://au.finance.yahoo.com/quote/FUEL.AX/history?period1=1373983200&period2=1531749600&interval=1d&filter=history&frequency=1d
+https://au.finance.yahoo.com/quote/MVS.AX/history?period1=1373983200&period2=1531749600&interval=1d&filter=history&frequency=1d
+https://au.finance.yahoo.com/quote/ETHI.AX/history?period1=1373983200&period2=1531749600&interval=1d&filter=history&frequency=1d
+https://au.finance.yahoo.com/quote/QRE.AX/history?period1=1373983200&period2=1531749600&interval=1d&filter=history&frequency=1d
+https://au.finance.yahoo.com/quote/ISO.AX/history?period1=1373983200&period2=1531749600&interval=1d&filter=history&frequency=1d
